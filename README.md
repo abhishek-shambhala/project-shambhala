@@ -1,10 +1,10 @@
-# Project Shambhala 🧠
+# Project Shambhala 
 
 **Exploring and Teaching AI from First Principles — Intuitively, Deeply, Practically.**
 
 ---
 
-## 🧭 What is This?
+##  What is This?
 
 Project Shambhala is an independent, evolving journey to teach and document Artificial Intelligence — from intuition to deep math and real-world implementation.
 
@@ -16,7 +16,7 @@ It starts from the ground up:
 
 ---
 
-## 🧠 How It’s Taught
+##  How It’s Taught
 
 - Start with intuition  
 - Build deep understanding  
@@ -25,7 +25,7 @@ It starts from the ground up:
 
 ---
 
-## 📂 What to Expect
+##  What to Expect
 
 This repository will grow to include:
 - Lessons in plain language
@@ -36,7 +36,7 @@ This repository will grow to include:
 
 ---
 
-## 🚧 Status
+##  Status
 
 In progress. Content will be added regularly.  
 Follow along, contribute, or use freely.
